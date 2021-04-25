@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LazyMango
-- 👀 I’m interested in Java
+- 👋 Hi
 
 <!---
 LazyMango/LazyMango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
